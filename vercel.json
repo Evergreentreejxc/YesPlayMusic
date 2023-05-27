@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://netease-cloud-music-api-lyart-two-23.vercel.app"
+    }
+  ]
+}
